@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DionRama
 - 👀 I’m interested in ... Front-End  
-- 🌱 I’m currently learning ...How to Create and Publish a React Component Library
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...dionrama1319@gmail.com
 
